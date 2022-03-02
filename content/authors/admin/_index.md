@@ -6,7 +6,7 @@ title: Zhihao Ding (Tommy)
 superuser: true
 
 # Role/position/tagline
-role: Master student in Xi'an Jiaotong university
+role: Master student at Xi'an Jiaotong university
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: http://en.xjtu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include graph data mining, anomaly detection, and so on.
 
 # Interests to show in About widget
 interests:

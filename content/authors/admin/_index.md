@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: tommydingzh@gmail.com
+  link: mailto:tommydingzh@gmail.com
 <!-- - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen -->

@@ -73,6 +73,6 @@ Hala! I'm an incoming PhD student in computer science at The Hong Kong Polytechi
 
 My research interests are developing graph representation learning algorithms for solving real-world problems like user profiling and anomaly detection.
 
-By the way, I'm a crazy fan of Barcelona, tiki-taka is my philosophy of football. I play RB in the field and my template is Philipp Lahm.
+By the way, I'm a crazy fan of Barcelona, tiki-taka is my philosophy of football. I play RB in colledge team, and my template is Philipp Lahm. Hope to see you guys in the field!
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
